@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**scar832/scar832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Joel 👋
 
-Here are some ideas to get you started:
+I'm a **Frontend Developer** (Web & Mobile) and a **UI/UX Designer** who loves crafting clean interfaces and smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Code meets design — I turn pixels into real-world products
+- 📱 Mobile-first, responsive, and accessibility-aware
+- ⚛️ React, React Native, Tailwind, Figma, Framer, and more
+- 🌍 Always learning, always creating
+
+Let's build something beautiful together!
+
+<!-- Badges and links (optional) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
