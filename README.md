@@ -30,3 +30,7 @@ Let's build something beautiful together!
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" height="40" alt="flutter"  />
 </div>
+
+<span>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</span>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=scar832&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
