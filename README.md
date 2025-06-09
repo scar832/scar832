@@ -13,7 +13,7 @@ Let's build something beautiful together!
 
 <!-- Badges and links (optional) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joel-boafo-346494310)
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=P5ROoX4rxKSE&format=png&color=000000" height="40" alt="figma"  />
